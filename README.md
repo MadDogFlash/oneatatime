@@ -31,4 +31,6 @@ React Native · Expo · expo-router · expo-notifications (local) · SQLite (on-
 
 All data stays on your device. No account, no server.
 
+NOTE: description written by Claude, will be proof reading and changing for later iterations of the description and use case. code being built using claude and then manually myself. using this project as a way to get back into coding, learning to make an app, and get my hobbies under control. 
+
 #react-native #expo #adhd #mobile-app #habit-tracker #ios #accessibility #productivity
